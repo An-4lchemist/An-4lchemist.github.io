@@ -5,8 +5,8 @@
 [interests / skills]
 
 # Projects
-* [post-1](https://suhas-kumararaja.github.io/posts/post-1)
-* [post-2](https://suhas-kumararaja.github.io/posts/post-2)
+* [project-1](https://suhas-kumararaja.github.io/projects/project-1)
+* [project-2](https://suhas-kumararaja.github.io/projects/project-2)
 
 # Academics
 [academics]
