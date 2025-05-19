@@ -1,12 +1,12 @@
-# About Me
+## About Me
 [about me]
 
-# Interests / Skills
+## Interests / Skills
 [interests / skills]
 
-# Projects
+## Projects
 * [project-1](https://suhas-kumararaja.github.io/projects/project-1)
 * [project-2](https://suhas-kumararaja.github.io/projects/project-2)
 
-# Academics
+## Academics
 [academics]
