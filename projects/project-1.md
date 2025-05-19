@@ -10,4 +10,4 @@ permalink: /projects/project-1
 ## Resources
 [resources]
 
-[back](./)
+[back](../)
