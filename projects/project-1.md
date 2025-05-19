@@ -1,11 +1,13 @@
 ---
-layout: page
-title: "project-1"
+layout: default
+title: project-1
 permalink: /projects/project-1
 ---
 
-# Project 1
+## Project 1
 [project]
 
-# Resources
+## Resources
 [resources]
+
+[back](./)
